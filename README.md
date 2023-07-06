@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/anye-web/Advice-Generator-App)
+- Live Site: [Website](https://advice-generator-sites.netlify.app/)
 
 ## My process
 
